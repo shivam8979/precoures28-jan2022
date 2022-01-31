@@ -1,0 +1,74 @@
+<html>
+     <head>
+           <style>
+                  h3 {
+
+                       color: red;
+                  }
+                  p{
+                       color: rgb(4, 100, 46);
+                  }
+                  #ref1 {
+                        color: red;
+                  }
+                  #ref2{
+                        color: slateblue;
+                  }
+                  #ref3{
+                        color: springgreen;
+                  }
+                  #mef1{
+                        color: violet;
+                  }
+                  #mef2{
+                        color: yellow;
+                  }
+                  #mef3{
+                        color: turquoise;
+                  }
+                  div{
+                        border: 5px solid black;
+                        margin: 10px;
+                        background-color: white;
+                  
+                  }
+           </style>
+
+     </head>
+
+     <body>
+           <div>
+                <h3 id="ref1">What is Education</h3>
+                <p id="mef1"> Effective education is a learning experience.
+
+                    Education brings about an inherent and permanent change in a person's thinking and capacity to do things.
+                    
+                    Many people have a superficial concept of education; equating it with doing a particular course or obtaining a particular qualification.
+                    
+                    Qualifications and courses however do not always equate with effective education.
+                    
+                    People can undertake courses without any significant permanent change
+                    People can achieve qualifications without changing .</p>
+           </div>
+     
+           <div> 
+                <h3 id="ref2">How Good is a Qualification</h3>
+                <p id="mef2">There's no escaping the fact that good learning takes time.
+
+                    Reading a book and understanding what you read, does not mean that you have been educated (or permanently changed), if you don't integrate what you read into your attitudes and memory. Similarly, attending a course and hearing a lecture doesn't mean you have changed or been educated.
+                    
+                    Real education is very different to just having access to (or being exposed to) information about something. Real education embeds things into one's brain, and anyone who understands learning will understand that this comes from repeated exposure and use of information or skills.
+                       
+                    Sadly, in today's world, people want to fast track everything: but learning is something that cannot usually be fast track
+                    Shorter courses simply mean that less is learnt.</p>
+           </div>
+
+           <div>
+               <h3 id="ref3">SUPPLEMENTARY READING</h3>
+               <p id="mef3">Our principal and staff have written dozens of reference books as supplementary texts to complement studies in our school
+                These books are mostly available as ebook, through our online bookstore. They include the following titles. You can click on any of these titles to go to the bookstore and see more details, on that title (including a free download of some of the pages).</p>
+           </div>
+     
+     
+     </body>
+</html>
