@@ -1,0 +1,36 @@
+<html>
+      <head>
+        <style> 
+              body{
+                  margin: opx;
+              }
+              img{
+                  border-radius:50% ;
+              }
+            #b1{
+ 
+                width: 40%;
+                float: left;
+                text-align: center;
+                margin-top: 10px;
+            }
+            #b2{
+  
+                width: 60%;
+                float: right;
+                margin-top: 10px;
+     
+            }
+        </style>
+      </head>
+      <body>
+           <div id="b1"> <img 
+            id="img1"
+            width="300px"
+            height="300px"
+           src="https://images.pexels.com/photos/1181280/pexels-photo-1181280.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        /></div>
+
+           <div id="b2"> <p>The simplest form of technology is the development and use of basic tools. The prehistoric invention of shaped stone tools followed by the discovery of how to control fire increased sources of food. The later Neolithic Revolution extended this, and quadrupled the sustenance available from a territory. The invention of the wheel helped humans to travel in and control their environment.</p></div>
+      </body>
+</html>

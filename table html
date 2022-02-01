@@ -1,0 +1,30 @@
+<html>
+     <head> 
+          <style>
+                 table {
+                         
+                         width: 100%;
+                         text-align: center;
+                 }
+          </style>
+     </head>
+     <body>
+           <table border="20">
+                  <tr>
+                     <td>ID</td>
+                     <td>NAME</td>
+                     <td>CITY</td>
+                  </tr>
+                  <tr>
+                    <td>1</td>
+                    <td>runak</td>
+                    <td>agra</td>
+                 </tr>
+                 <tr>
+                    <td>2</td>
+                    <td>sonu</td>
+                    <td>bareilly</td>
+                 </tr>
+           </table>
+     </body>
+</html>

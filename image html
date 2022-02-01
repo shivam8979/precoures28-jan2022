@@ -1,0 +1,35 @@
+<html>
+      <head>
+           <style>
+                 #img1{
+                        border-radius: 50%;
+                 }
+                 #img2{
+                      border-radius: 50%;
+                 }
+                 #img3{
+                      border-radius: 50%
+                 }
+           </style>
+      </head>
+      <body>
+           <img 
+               id="img1"
+               width="300px"
+               height="300px"
+              src="https://images.pexels.com/photos/1181280/pexels-photo-1181280.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+           />
+           <img
+               id="img2"
+               width="200px"
+               height="300px"
+              src="https://images.pexels.com/photos/3153203/pexels-photo-3153203.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+           />
+           <img
+               id="img3"
+               width="300px"
+               height="300px"
+              src="https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+           />
+      </body>
+</html>
